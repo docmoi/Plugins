@@ -5,7 +5,7 @@
             "id": "phimtvhay",
             "name": "TVHay - Phim TV Hay",
             "version": "1.0.0",
-            "scriptUrl": "https://raw.githubusercontent.com/TEN_NGUOI_DUNG/REPO_NAME/main/tvhay_plugin.js",
+            "scriptUrl": "https://raw.githubusercontent.com/docmoi/Plugins-VAX/refs/heads/main/tvhay_plugin.js",
             "iconUrl": "https://phimtvhay.org/favicon.ico"
         }
     ]
