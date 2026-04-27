@@ -6,7 +6,7 @@ function getManifest() {
         id: "phimtvhay",
         name: "TVHay - Phim TV Hay",
         version: "1.0.0",
-        baseUrl: BASE_URL,
+        baseUrl: https://phimtvhay.org,
         iconUrl: "https://phimtvhay.org/favicon.ico",
         isEnabled: true,
         isAdult: false,
